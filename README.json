@@ -1,0 +1,643 @@
+{
+  "items": [
+    {
+      "description": "LLM Skills are customizable workflows that teach LLM how to perform specific tasks according to your unique requirements. Skills enable LLM to execute tasks in a repeatable, standardized manner across all LLM platforms.",
+      "items": [],
+      "title": "What Are LLM Skills?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Skills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docx",
+          "description": "Create, edit, analyze Word docs with tracked changes, comments, formatting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdf",
+          "description": "Extract text, tables, metadata, merge & annotate PDFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pptx",
+          "description": "Read, generate, and adjust slides, layouts, templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xlsx",
+          "description": "Spreadsheet manipulation: formulas, charts, data transformations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown to EPUB Converter",
+          "description": "Converts markdown documents and chat summaries into professional EPUB ebook files. By @smerchek",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-18T00:40:32Z",
+            "owner": "smerchek",
+            "repo": "claude-epub-skill",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Document Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "finishing-a-development-branch",
+          "description": "Guides completion of development work by presenting clear options and handling chosen workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-driven-development",
+          "description": "Use when implementing any feature or bugfix, before writing implementation code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "using-git-worktrees",
+          "description": "Creates isolated git worktrees with smart directory selection and safety verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "artifacts-builder",
+          "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skill Seekers",
+          "description": "Automatically converts any documentation website into a Claude AI skill in minutes. By @yusufkaraaslan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:13:26Z",
+            "owner": "yusufkaraaslan",
+            "repo": "Skill_Seekers",
+            "stars": 14752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright Browser Automation",
+          "description": "Model-invoked Playwright automation for testing and validating web applications. By @lackeyjb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T13:10:22Z",
+            "owner": "lackeyjb",
+            "repo": "playwright-skill",
+            "stars": 3021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS Simulator",
+          "description": "Enables Claude to interact with iOS Simulator for testing and debugging iOS applications. By @conorluddy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T15:29:20Z",
+            "owner": "conorluddy",
+            "repo": "ios-simulator-skill",
+            "stars": 1210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blueprint",
+          "description": "A Claude Code plugin for specification-driven development that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration and dual-model adversarial review. By @JuliusBrussee",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-18T06:00:50Z",
+            "owner": "JuliusBrussee",
+            "repo": "cavekit",
+            "stars": 1143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maestro Orchestrate",
+          "description": "Multi-agent development orchestration platform coordinating 22 specialized agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Works across Claude Code, Codex, and Gemini CLI. By @josstei",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T07:00:06Z",
+            "owner": "josstei",
+            "repo": "maestro-orchestrate",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-skills",
+          "description": "AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T14:37:32Z",
+            "owner": "zxkane",
+            "repo": "aws-skills",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D3.js Visualization",
+          "description": "Teaches Claude to produce D3 charts and interactive data visualizations. By @chrisvoncsefalvay",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-18T02:29:55Z",
+            "owner": "chrisvoncsefalvay",
+            "repo": "claude-d3js-skill",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FFUF Web Fuzzing",
+          "description": "Integrates the ffuf web fuzzer so Claude can run fuzzing tasks and analyze results for vulnerabilities. By @jthack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T19:39:14Z",
+            "owner": "jthack",
+            "repo": "ffuf_claude_skill",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pypict-claude-skill",
+          "description": "Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T20:31:42Z",
+            "owner": "omkamal",
+            "repo": "pypict-claude-skill",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skill-optimizer",
+          "description": "CLI tool that benchmarks SDK, CLI, and MCP guidance docs across multiple LLMs using static action and argument matching. Measures whether models call the right tools with correct arguments. Iteratively rewrites docs until every configured model meets a PASS/FAIL score floor. CI-friendly, MIT licensed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-28T17:39:51Z",
+            "owner": "fastxyz",
+            "repo": "skill-optimizer",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codebase-recon",
+          "description": "Analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, team momentum, and development patterns before reading any code. By @yujiachen-y",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-26T05:49:17Z",
+            "owner": "yujiachen-y",
+            "repo": "codebase-recon-skill",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "move-code-quality-skill",
+          "description": "Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-21T21:19:41Z",
+            "owner": "1NickPappas",
+            "repo": "move-code-quality-skill",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dRPC Agent Skills",
+          "description": "Gives any LLM coding agent read access to EVM and Solana chains through DRPC. Fetch balances, decode contract state, estimate gas, pull logs. By @drpcorg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-21T13:05:38Z",
+            "owner": "drpcorg",
+            "repo": "drpc-agent-skills",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCHub",
+          "description": "A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).",
+          "children": []
+        }
+      ],
+      "title": "Development & Code Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "root-cause-tracing",
+          "description": "Use when errors occur deep in execution and you need to trace back to find the original trigger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSV Data Summarizer",
+          "description": "Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. By @coffeefuelbump",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T20:20:06Z",
+            "owner": "coffeefuelbump",
+            "repo": "csv-data-summarizer-claude-skill",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postgres",
+          "description": "Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. By @sanjay3290",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T21:13:00Z",
+            "owner": "sanjay3290",
+            "repo": "ai-skills",
+            "stars": 398
+          }
+        }
+      ],
+      "title": "Data & Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "brainstorming",
+          "description": "Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotebookLM Integration",
+          "description": "Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. By @PleasePrompto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-21T17:42:12Z",
+            "owner": "PleasePrompto",
+            "repo": "notebooklm-skill",
+            "stars": 7604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "article-extractor",
+          "description": "Extract full article text and metadata from web pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T22:36:51Z",
+            "owner": "michalparkola",
+            "repo": "tapestry-skills",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "family-history-research",
+          "description": "Provides assistance with planning family history and genealogy research projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-18T23:29:55Z",
+            "owner": "emaynard",
+            "repo": "claude-family-history-research-skill",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Communication & Writing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "youtube-transcript",
+          "description": "Fetch transcripts from YouTube videos and prepare summaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T22:36:51Z",
+            "owner": "michalparkola",
+            "repo": "tapestry-skills",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imagen",
+          "description": "Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. By @sanjay3290",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T21:13:00Z",
+            "owner": "sanjay3290",
+            "repo": "ai-skills",
+            "stars": 398
+          }
+        }
+      ],
+      "title": "Creative & Media"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ship-learn-next",
+          "description": "Skill to help iterate on what to build or learn next, based on feedback loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T22:36:51Z",
+            "owner": "michalparkola",
+            "repo": "tapestry-skills",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tapestry",
+          "description": "Interlink and summarize related documents into knowledge networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T22:36:51Z",
+            "owner": "michalparkola",
+            "repo": "tapestry-skills",
+            "stars": 518
+          }
+        }
+      ],
+      "title": "Productivity & Organization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "git-pushing",
+          "description": "Automate git operations and repository interactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "review-implementing",
+          "description": "Evaluate code implementation plans and align with specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-fixing",
+          "description": "Detect failing tests and propose patches or fixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        }
+      ],
+      "title": "Collaboration & Project Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "computer-forensics",
+          "description": "Digital forensics analysis and investigation techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "file-deletion",
+          "description": "Secure file deletion and data sanitization methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metadata-extraction",
+          "description": "Extract and analyze file metadata for forensic purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "threat-hunting-with-sigma-rules",
+          "description": "Use Sigma detection rules to hunt for threats and analyze security events.",
+          "children": []
+        }
+      ],
+      "title": "Security & Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "This repository is licensed under the Apache License 2.0.\nIndividual skills may have different licenses - please check each skill's folder for specific licensing information.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:18.027Z",
+    "original_repository": "Prat011/awesome-llm-skills",
+    "original_repository_sha": "35e1ea23b6c5f50c420d5591973aa8ad4f2931ff",
+    "enhanced_repository": "enhansome/enhansome-llm-skills",
+    "enhanced_repository_description": null,
+    "title": "Awesome llm skills with stars"
+  }
+}
