@@ -24,7 +24,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169527
+            "stars": 169700
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169527
+            "stars": 169700
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169527
+            "stars": 169700
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169527
+            "stars": 169700
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 272426
+            "stars": 272712
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 272426
+            "stars": 272712
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 272426
+            "stars": 272712
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169527
+            "stars": 169700
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-09T13:13:26Z",
             "owner": "yusufkaraaslan",
             "repo": "Skill_Seekers",
-            "stars": 14764
+            "stars": 14771
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-14T13:51:33Z",
             "owner": "lackeyjb",
             "repo": "playwright-skill",
-            "stars": 3032
+            "stars": 3037
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-06-18T15:29:20Z",
             "owner": "conorluddy",
             "repo": "ios-simulator-skill",
-            "stars": 1215
+            "stars": 1216
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-14T22:07:51Z",
             "owner": "JuliusBrussee",
             "repo": "cavekit",
-            "stars": 1143
+            "stars": 1144
           }
         },
         {
@@ -350,7 +350,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 272426
+            "stars": 272712
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 272426
+            "stars": 272712
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2025-11-21T17:42:12Z",
             "owner": "PleasePrompto",
             "repo": "notebooklm-skill",
-            "stars": 7631
+            "stars": 7630
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-03-11T22:36:51Z",
             "owner": "michalparkola",
             "repo": "tapestry-skills",
-            "stars": 519
+            "stars": 521
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2026-07-18T23:29:55Z",
             "owner": "emaynard",
             "repo": "claude-family-history-research-skill",
-            "stars": 102
+            "stars": 103
           }
         }
       ],
@@ -460,7 +460,7 @@
             "last_commit": "2026-03-11T22:36:51Z",
             "owner": "michalparkola",
             "repo": "tapestry-skills",
-            "stars": 519
+            "stars": 521
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2026-03-11T22:36:51Z",
             "owner": "michalparkola",
             "repo": "tapestry-skills",
-            "stars": 519
+            "stars": 521
           }
         },
         {
@@ -508,7 +508,7 @@
             "last_commit": "2026-03-11T22:36:51Z",
             "owner": "michalparkola",
             "repo": "tapestry-skills",
-            "stars": 519
+            "stars": 521
           }
         }
       ],
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:53:32.966Z",
+    "last_updated": "2026-08-16T16:54:06.550Z",
     "original_repository": "Prat011/awesome-llm-skills",
     "original_repository_sha": "35e1ea23b6c5f50c420d5591973aa8ad4f2931ff",
     "enhanced_repository": "enhansome/enhansome-llm-skills",
