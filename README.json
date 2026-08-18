@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:26:30Z",
+            "last_commit": "2026-08-18T16:02:06Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169913
+            "stars": 170235
           }
         },
         {
@@ -35,10 +35,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:26:30Z",
+            "last_commit": "2026-08-18T16:02:06Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169913
+            "stars": 170235
           }
         },
         {
@@ -49,10 +49,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:26:30Z",
+            "last_commit": "2026-08-18T16:02:06Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169913
+            "stars": 170235
           }
         },
         {
@@ -63,10 +63,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:26:30Z",
+            "last_commit": "2026-08-18T16:02:06Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169913
+            "stars": 170235
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273105
+            "stars": 273558
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273105
+            "stars": 273558
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273105
+            "stars": 273558
           }
         },
         {
@@ -139,10 +139,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:26:30Z",
+            "last_commit": "2026-08-18T16:02:06Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169913
+            "stars": 170235
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-09T13:13:26Z",
             "owner": "yusufkaraaslan",
             "repo": "Skill_Seekers",
-            "stars": 14776
+            "stars": 14778
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-14T13:51:33Z",
             "owner": "lackeyjb",
             "repo": "playwright-skill",
-            "stars": 3038
+            "stars": 3042
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-06-18T15:29:20Z",
             "owner": "conorluddy",
             "repo": "ios-simulator-skill",
-            "stars": 1216
+            "stars": 1217
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2026-04-26T05:49:17Z",
             "owner": "yujiachen-y",
             "repo": "codebase-recon-skill",
-            "stars": 32
+            "stars": 34
           }
         },
         {
@@ -350,7 +350,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273105
+            "stars": 273558
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2025-10-16T20:20:06Z",
             "owner": "coffeefuelbump",
             "repo": "csv-data-summarizer-claude-skill",
-            "stars": 450
+            "stars": 451
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273105
+            "stars": 273558
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2025-11-21T17:42:12Z",
             "owner": "PleasePrompto",
             "repo": "notebooklm-skill",
-            "stars": 7639
+            "stars": 7642
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2026-07-18T23:29:55Z",
             "owner": "emaynard",
             "repo": "claude-family-history-research-skill",
-            "stars": 103
+            "stars": 104
           }
         }
       ],
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:57:51.681Z",
+    "last_updated": "2026-08-18T16:59:53.117Z",
     "original_repository": "Prat011/awesome-llm-skills",
     "original_repository_sha": "35e1ea23b6c5f50c420d5591973aa8ad4f2931ff",
     "enhanced_repository": "enhansome/enhansome-llm-skills",
