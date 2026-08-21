@@ -115,28 +115,28 @@ Detailed description of the skill's purpose and capabilities.
 * [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 * [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 * [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
-* [Taisly Agent Kit](https://github.com/taisly/agent) ⭐ 244 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-06 - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
+* [Taisly Agent Kit](https://github.com/taisly/agent) ⭐ 238 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-06 - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
 
 ### Document Processing
 
-* [docx](https://github.com/anthropics/skills/tree/main/document-skills/docx) ⭐ 170,657 | 🐛 1,124 | 🌐 Python | 📅 2026-08-18 - Create, edit, analyze Word docs with tracked changes, comments, formatting.
-* [pdf](https://github.com/anthropics/skills/tree/main/document-skills/pdf) ⭐ 170,657 | 🐛 1,124 | 🌐 Python | 📅 2026-08-18 - Extract text, tables, metadata, merge & annotate PDFs.
-* [pptx](https://github.com/anthropics/skills/tree/main/document-skills/pptx) ⭐ 170,657 | 🐛 1,124 | 🌐 Python | 📅 2026-08-18 - Read, generate, and adjust slides, layouts, templates.
-* [xlsx](https://github.com/anthropics/skills/tree/main/document-skills/xlsx) ⭐ 170,657 | 🐛 1,124 | 🌐 Python | 📅 2026-08-18 - Spreadsheet manipulation: formulas, charts, data transformations.
-* [Markdown to EPUB Converter](https://github.com/smerchek/claude-epub-skill) ⭐ 153 | 🐛 2 | 🌐 Python | 📅 2025-10-18 - Converts markdown documents and chat summaries into professional EPUB ebook files. *By [@smerchek](https://github.com/smerchek)*
+* [docx](https://github.com/anthropics/skills/tree/main/document-skills/docx) ⭐ 170,823 | 🐛 1,134 | 🌐 Python | 📅 2026-08-21 - Create, edit, analyze Word docs with tracked changes, comments, formatting.
+* [pdf](https://github.com/anthropics/skills/tree/main/document-skills/pdf) ⭐ 170,823 | 🐛 1,134 | 🌐 Python | 📅 2026-08-21 - Extract text, tables, metadata, merge & annotate PDFs.
+* [pptx](https://github.com/anthropics/skills/tree/main/document-skills/pptx) ⭐ 170,823 | 🐛 1,134 | 🌐 Python | 📅 2026-08-21 - Read, generate, and adjust slides, layouts, templates.
+* [xlsx](https://github.com/anthropics/skills/tree/main/document-skills/xlsx) ⭐ 170,823 | 🐛 1,134 | 🌐 Python | 📅 2026-08-21 - Spreadsheet manipulation: formulas, charts, data transformations.
+* [Markdown to EPUB Converter](https://github.com/smerchek/claude-epub-skill) ⭐ 154 | 🐛 2 | 🌐 Python | 📅 2025-10-18 - Converts markdown documents and chat summaries into professional EPUB ebook files. *By [@smerchek](https://github.com/smerchek)*
 
 ### Development & Code Tools
 
-* [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) ⭐ 274,791 | 🐛 293 | 🌐 Shell | 📅 2026-08-19 - Guides completion of development work by presenting clear options and handling chosen workflow.
-* [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) ⭐ 274,791 | 🐛 293 | 🌐 Shell | 📅 2026-08-19 - Use when implementing any feature or bugfix, before writing implementation code.
-* [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) ⭐ 274,791 | 🐛 293 | 🌐 Shell | 📅 2026-08-19 - Creates isolated git worktrees with smart directory selection and safety verification.
-* [artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder) ⭐ 170,657 | 🐛 1,124 | 🌐 Python | 📅 2026-08-18 - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
-* [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 14,791 | 🐛 52 | 🌐 Python | 📅 2026-08-09 - Automatically converts any documentation website into a Claude AI skill in minutes. *By [@yusufkaraaslan](https://github.com/yusufkaraaslan)*
+* [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) ⭐ 275,494 | 🐛 298 | 🌐 Shell | 📅 2026-08-19 - Guides completion of development work by presenting clear options and handling chosen workflow.
+* [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) ⭐ 275,494 | 🐛 298 | 🌐 Shell | 📅 2026-08-19 - Use when implementing any feature or bugfix, before writing implementation code.
+* [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) ⭐ 275,494 | 🐛 298 | 🌐 Shell | 📅 2026-08-19 - Creates isolated git worktrees with smart directory selection and safety verification.
+* [artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder) ⭐ 170,823 | 🐛 1,134 | 🌐 Python | 📅 2026-08-21 - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
+* [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 14,790 | 🐛 52 | 🌐 Python | 📅 2026-08-09 - Automatically converts any documentation website into a Claude AI skill in minutes. *By [@yusufkaraaslan](https://github.com/yusufkaraaslan)*
 * [Playwright Browser Automation](https://github.com/lackeyjb/playwright-skill) ⭐ 3,048 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-14 - Model-invoked Playwright automation for testing and validating web applications. *By [@lackeyjb](https://github.com/lackeyjb)*
 * [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) ⭐ 1,222 | 🐛 20 | 🌐 Python | 📅 2026-06-18 - Enables Claude to interact with iOS Simulator for testing and debugging iOS applications. *By [@conorluddy](https://github.com/conorluddy)*
-* [Blueprint](https://github.com/JuliusBrussee/blueprint) ⭐ 1,142 | 🐛 17 | 📅 2026-08-14 - A Claude Code plugin for specification-driven development that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration and dual-model adversarial review. *By [@JuliusBrussee](https://github.com/JuliusBrussee)*
+* [Blueprint](https://github.com/JuliusBrussee/blueprint) ⭐ 1,141 | 🐛 17 | 📅 2026-08-14 - A Claude Code plugin for specification-driven development that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration and dual-model adversarial review. *By [@JuliusBrussee](https://github.com/JuliusBrussee)*
 * [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate) ⭐ 454 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-07 - Multi-agent development orchestration platform coordinating 22 specialized agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Works across Claude Code, Codex, and Gemini CLI. *By [@josstei](https://github.com/josstei)*
-* [aws-skills](https://github.com/zxkane/aws-skills) ⭐ 350 | 🐛 0 | 🌐 Python | 📅 2026-06-15 - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
+* [aws-skills](https://github.com/zxkane/aws-skills) ⭐ 351 | 🐛 0 | 🌐 Python | 📅 2026-06-15 - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
 * [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) ⭐ 223 | 🐛 4 | 🌐 JavaScript | 📅 2025-10-18 - Teaches Claude to produce D3 charts and interactive data visualizations. *By [@chrisvoncsefalvay](https://github.com/chrisvoncsefalvay)*
 * [FFUF Web Fuzzing](https://github.com/jthack/ffuf_claude_skill) ⭐ 207 | 🐛 1 | 🌐 Python | 📅 2025-10-16 - Integrates the ffuf web fuzzer so Claude can run fuzzing tasks and analyze results for vulnerabilities. *By [@jthack](https://github.com/jthack)*
 * [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2026-03-22 - Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.
@@ -152,8 +152,8 @@ Detailed description of the skill's purpose and capabilities.
 
 ### Data & Analysis
 
-* [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) ⭐ 274,791 | 🐛 293 | 🌐 Shell | 📅 2026-08-19 - Use when errors occur deep in execution and you need to trace back to find the original trigger.
-* [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) ⭐ 451 | 🐛 3 | 🌐 Python | 📅 2025-10-16 - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
+* [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) ⭐ 275,494 | 🐛 298 | 🌐 Shell | 📅 2026-08-19 - Use when errors occur deep in execution and you need to trace back to find the original trigger.
+* [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) ⭐ 452 | 🐛 3 | 🌐 Python | 📅 2025-10-16 - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
 * [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) ⭐ 401 | 🐛 4 | 🌐 Python | 📅 2026-07-09 - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
 
 ### Business & Marketing
@@ -167,16 +167,16 @@ Detailed description of the skill's purpose and capabilities.
 
 ### Communication & Writing
 
-* [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) ⭐ 274,791 | 🐛 293 | 🌐 Shell | 📅 2026-08-19 - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
-* [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) ⭐ 7,659 | 🐛 37 | 🌐 Python | 📅 2025-11-21 - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
-* [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) ⭐ 523 | 🐛 4 | 🌐 Shell | 📅 2026-03-11 - Extract full article text and metadata from web pages.
+* [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) ⭐ 275,494 | 🐛 298 | 🌐 Shell | 📅 2026-08-19 - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
+* [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) ⭐ 7,665 | 🐛 37 | 🌐 Python | 📅 2025-11-21 - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
+* [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) ⭐ 524 | 🐛 4 | 🌐 Shell | 📅 2026-03-11 - Extract full article text and metadata from web pages.
 * [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) ⭐ 104 | 🐛 1 | 📅 2026-07-18 - Provides assistance with planning family history and genealogy research projects.
 * [Content Research Writer](./content-research-writer/) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, and providing section-by-section feedback.
 * [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 
 ### Creative & Media
 
-* [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) ⭐ 523 | 🐛 4 | 🌐 Shell | 📅 2026-03-11 - Fetch transcripts from YouTube videos and prepare summaries.
+* [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) ⭐ 524 | 🐛 4 | 🌐 Shell | 📅 2026-03-11 - Fetch transcripts from YouTube videos and prepare summaries.
 * [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) ⭐ 401 | 🐛 4 | 🌐 Python | 📅 2026-07-09 - Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. *By [@sanjay3290](https://github.com/sanjay3290)*
 * [Canvas Design](./canvas-design/) - Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, designs, and static pieces.
 * [Image Enhancer](./image-enhancer/) - Improves image and screenshot quality by enhancing resolution, sharpness, and clarity for professional presentations and documentation.
@@ -186,8 +186,8 @@ Detailed description of the skill's purpose and capabilities.
 
 ### Productivity & Organization
 
-* [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) ⭐ 523 | 🐛 4 | 🌐 Shell | 📅 2026-03-11 - Skill to help iterate on what to build or learn next, based on feedback loops.
-* [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) ⭐ 523 | 🐛 4 | 🌐 Shell | 📅 2026-03-11 - Interlink and summarize related documents into knowledge networks.
+* [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) ⭐ 524 | 🐛 4 | 🌐 Shell | 📅 2026-03-11 - Skill to help iterate on what to build or learn next, based on feedback loops.
+* [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) ⭐ 524 | 🐛 4 | 🌐 Shell | 📅 2026-03-11 - Interlink and summarize related documents into knowledge networks.
 * [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 * [Invoice Organizer](./invoice-organizer/) - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 * [Raffle Winner Picker](./raffle-winner-picker/) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
@@ -289,7 +289,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ### Community Resources
 
-* [Anthropic Skills Repository](https://github.com/anthropics/skills) ⭐ 170,657 | 🐛 1,124 | 🌐 Python | 📅 2026-08-18 - Official example skills
+* [Anthropic Skills Repository](https://github.com/anthropics/skills) ⭐ 170,823 | 🐛 1,134 | 🌐 Python | 📅 2026-08-21 - Official example skills
 * [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 * [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 * [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
@@ -304,4 +304,4 @@ Individual skills may have different licenses - please check each skill's folder
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
