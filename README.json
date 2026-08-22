@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1061953414,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:31:01Z",
+                "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 170823
+                "stars": 170979
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1061953414,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:31:01Z",
+                "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 170823
+                "stars": 170979
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 1061953414,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:31:01Z",
+                "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 170823
+                "stars": 170979
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 1061953414,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:31:01Z",
+                "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 170823
+                "stars": 170979
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 275494
+                "stars": 276025
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 275494
+                "stars": 276025
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 275494
+                "stars": 276025
               }
             },
             {
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 1061953414,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:31:01Z",
+                "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 170823
+                "stars": 170979
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-09T13:13:26Z",
                 "owner": "yusufkaraaslan",
                 "repo": "Skill_Seekers",
-                "stars": 14790
+                "stars": 14799
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-18T15:29:20Z",
                 "owner": "conorluddy",
                 "repo": "ios-simulator-skill",
-                "stars": 1222
+                "stars": 1225
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-14T22:07:51Z",
                 "owner": "JuliusBrussee",
                 "repo": "cavekit",
-                "stars": 1141
+                "stars": 1142
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-08-07T07:00:06Z",
                 "owner": "josstei",
                 "repo": "maestro-orchestrate",
-                "stars": 454
+                "stars": 458
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2025-10-18T02:29:55Z",
                 "owner": "chrisvoncsefalvay",
                 "repo": "claude-d3js-skill",
-                "stars": 223
+                "stars": 224
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2025-10-16T19:39:14Z",
                 "owner": "jthack",
                 "repo": "ffuf_claude_skill",
-                "stars": 207
+                "stars": 208
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-05-28T17:39:51Z",
                 "owner": "fastxyz",
                 "repo": "skill-optimizer",
-                "stars": 75
+                "stars": 76
               }
             },
             {
@@ -309,7 +309,22 @@
                 "last_commit": "2026-04-26T05:49:17Z",
                 "owner": "yujiachen-y",
                 "repo": "codebase-recon-skill",
-                "stars": 34
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dRPC Agent Skills",
+              "description": "Gives any LLM coding agent read access to EVM and Solana chains through DRPC. Fetch balances, decode contract state, estimate gas, pull logs. By @drpcorg",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1202845859,
+                "language": "TypeScript",
+                "last_commit": "2026-06-21T13:05:38Z",
+                "owner": "drpcorg",
+                "repo": "drpc-agent-skills",
+                "stars": 23
               }
             },
             {
@@ -325,21 +340,6 @@
                 "owner": "1NickPappas",
                 "repo": "move-code-quality-skill",
                 "stars": 23
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "dRPC Agent Skills",
-              "description": "Gives any LLM coding agent read access to EVM and Solana chains through DRPC. Fetch balances, decode contract state, estimate gas, pull logs. By @drpcorg",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1202845859,
-                "language": "TypeScript",
-                "last_commit": "2026-06-21T13:05:38Z",
-                "owner": "drpcorg",
-                "repo": "drpc-agent-skills",
-                "stars": 22
               }
             }
           ],
@@ -361,7 +361,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 275494
+                "stars": 276025
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 401
+                "stars": 402
               }
             }
           ],
@@ -413,7 +413,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 275494
+                "stars": 276025
               }
             },
             {
@@ -428,7 +428,7 @@
                 "last_commit": "2025-11-21T17:42:12Z",
                 "owner": "PleasePrompto",
                 "repo": "notebooklm-skill",
-                "stars": 7665
+                "stars": 7671
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2026-03-11T22:36:51Z",
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 524
+                "stars": 525
               }
             },
             {
@@ -480,7 +480,7 @@
                 "last_commit": "2026-03-11T22:36:51Z",
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 524
+                "stars": 525
               }
             },
             {
@@ -495,7 +495,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 401
+                "stars": 402
               }
             }
           ],
@@ -517,7 +517,7 @@
                 "last_commit": "2026-03-11T22:36:51Z",
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 524
+                "stars": 525
               }
             },
             {
@@ -532,7 +532,7 @@
                 "last_commit": "2026-03-11T22:36:51Z",
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 524
+                "stars": 525
               }
             }
           ],
@@ -554,7 +554,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 662
+                "stars": 663
               }
             },
             {
@@ -569,7 +569,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 662
+                "stars": 663
               }
             },
             {
@@ -584,7 +584,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 662
+                "stars": 663
               }
             }
           ],
@@ -606,7 +606,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 662
+                "stars": 663
               }
             },
             {
@@ -621,7 +621,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 662
+                "stars": 663
               }
             },
             {
@@ -636,7 +636,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 662
+                "stars": 663
               }
             }
           ],
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:03:11.354Z",
+    "last_updated": "2026-08-22T16:53:33.521Z",
     "original_repository": "Prat011/awesome-llm-skills",
     "original_repository_id": 1080976138,
     "original_repository_sha": "35e1ea23b6c5f50c420d5591973aa8ad4f2931ff",
