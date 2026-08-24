@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Taisly Agent Kit",
+              "description": "Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1265780842,
+                "language": "JavaScript",
+                "last_commit": "2026-07-06T08:18:09Z",
+                "owner": "taisly",
+                "repo": "agent",
+                "stars": 237
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Skills with MCP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "docx",
               "description": "Create, edit, analyze Word docs with tracked changes, comments, formatting.",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171144
+                "stars": 171322
               }
             },
             {
@@ -32,7 +54,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171144
+                "stars": 171322
               }
             },
             {
@@ -47,7 +69,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171144
+                "stars": 171322
               }
             },
             {
@@ -62,7 +84,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171144
+                "stars": 171322
               }
             },
             {
@@ -99,7 +121,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276569
+                "stars": 276922
               }
             },
             {
@@ -114,7 +136,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276569
+                "stars": 276922
               }
             },
             {
@@ -129,7 +151,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276569
+                "stars": 276922
               }
             },
             {
@@ -144,7 +166,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171144
+                "stars": 171322
               }
             },
             {
@@ -159,7 +181,7 @@
                 "last_commit": "2026-08-09T13:13:26Z",
                 "owner": "yusufkaraaslan",
                 "repo": "Skill_Seekers",
-                "stars": 14806
+                "stars": 14814
               }
             },
             {
@@ -174,7 +196,7 @@
                 "last_commit": "2026-08-14T13:51:33Z",
                 "owner": "lackeyjb",
                 "repo": "playwright-skill",
-                "stars": 3050
+                "stars": 3056
               }
             },
             {
@@ -189,7 +211,7 @@
                 "last_commit": "2026-06-18T15:29:20Z",
                 "owner": "conorluddy",
                 "repo": "ios-simulator-skill",
-                "stars": 1225
+                "stars": 1228
               }
             },
             {
@@ -204,7 +226,7 @@
                 "last_commit": "2026-08-14T22:07:51Z",
                 "owner": "JuliusBrussee",
                 "repo": "cavekit",
-                "stars": 1143
+                "stars": 1142
               }
             },
             {
@@ -234,7 +256,7 @@
                 "last_commit": "2026-06-15T14:37:32Z",
                 "owner": "zxkane",
                 "repo": "aws-skills",
-                "stars": 351
+                "stars": 352
               }
             },
             {
@@ -361,7 +383,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276569
+                "stars": 276922
               }
             },
             {
@@ -391,13 +413,35 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 403
+                "stars": 404
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Data & Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "buyer-eval-skill",
+              "description": "Structured, evidence-based B2B software vendor evaluation skill. Engages vendor AI agents, scores vendors across 7 dimensions with transparent evidence tracking, and produces comparative scorecards with demo prep questions. Useful for procurement, RFP evaluation, and build-vs-buy decisions. By @salespeak-ai",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192378456,
+                "language": "Python",
+                "last_commit": "2026-04-30T05:38:29Z",
+                "owner": "salespeak-ai",
+                "repo": "buyer-eval-skill",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Business & Marketing"
         },
         {
           "children": [
@@ -413,7 +457,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276569
+                "stars": 276922
               }
             },
             {
@@ -428,7 +472,7 @@
                 "last_commit": "2025-11-21T17:42:12Z",
                 "owner": "PleasePrompto",
                 "repo": "notebooklm-skill",
-                "stars": 7674
+                "stars": 7676
               }
             },
             {
@@ -495,7 +539,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 403
+                "stars": 404
               }
             }
           ],
@@ -554,7 +598,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 663
+                "stars": 664
               }
             },
             {
@@ -569,7 +613,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 663
+                "stars": 664
               }
             },
             {
@@ -584,7 +628,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 663
+                "stars": 664
               }
             }
           ],
@@ -606,7 +650,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 663
+                "stars": 664
               }
             },
             {
@@ -621,7 +665,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 663
+                "stars": 664
               }
             },
             {
@@ -636,20 +680,42 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 663
+                "stars": 664
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Security & Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dev-gtm-claude-skills",
+              "description": "Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing. By Infrasity-Labs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1234477934,
+                "language": "Python",
+                "last_commit": "2026-06-28T19:34:19Z",
+                "owner": "Infrasity-Labs",
+                "repo": "dev-gtm-claude-skills",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Developer Marketing Skills"
         }
       ],
       "title": "Skills"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:54:49.387Z",
+    "last_updated": "2026-08-24T14:11:18.685Z",
     "original_repository": "Prat011/awesome-llm-skills",
     "original_repository_id": 1080976138,
     "original_repository_sha": "35e1ea23b6c5f50c420d5591973aa8ad4f2931ff",
